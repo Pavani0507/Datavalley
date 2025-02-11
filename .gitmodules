@@ -16,3 +16,6 @@
 [submodule "Datavalley-6"]
 	path = Datavalley-6
 	url = https://github.com/Pavani0507/Datavalley-6.git
+[submodule "Datavalley-7"]
+	path = Datavalley-7
+	url = https://github.com/Pavani0507/Datavalley-7.git
